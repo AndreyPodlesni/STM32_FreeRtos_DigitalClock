@@ -1,0 +1,4 @@
+../Core/Src/freertos.c:109:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:160:6:ReadTempretureTask	1
+../Core/Src/freertos.c:179:6:ShowTimeModeTask	6
+../Core/Src/freertos.c:212:6:PushButtonsTask	29
